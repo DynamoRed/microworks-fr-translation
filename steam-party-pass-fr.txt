@@ -1,10 +1,10 @@
 --- Name: ---
 
-MicroWorks - Passe Festive
+MicroWorks - Pass Festif
 
 --- Short Description: ---
 
-L'expérience MicroWorks ultime dans un seul package. Débloquez des options de personnalisation exclusives, de nouveaux modes de jeu, des mutateurs, un hébergement privé et bien plus encore !
+L'expérience MicroWorks ultime dans un seul package. Débloquez des options de personnalisation exclusives, de nouveaux modes de jeu, des parties customisables, un hébergement privé et bien plus encore !
 
 --- Description: ---
 
@@ -12,7 +12,7 @@ L'expérience MicroWorks ultime dans un seul package. Débloquez des options de 
 
 [h2][b]C'EST LA FÊTE[/b][/h2]
 
-Tire le meilleur parti du MicroVerse avec cet achat unique de contenu téléchargeable qui te donne tout cela:
+Tire le meilleur du MicroVerse avec cet achat unique de DLC qui te donne accès à:
 
 [h2]Personnalisation :[/h2]
 
@@ -25,11 +25,11 @@ Tire le meilleur parti du MicroVerse avec cet achat unique de contenu téléchar
 
 [list]
 [*] [b]Hébergement privé[/b] - Accéde à tous les paramètres de création de serveur, y compris la possibilité d'héberger des serveurs cachés ou protégés par mot de passe.
-[*] [b]Mutateurs[/b] - Personnalise les paramètres de partie, de l'ajustement du nombre de micro-jeux et d'accélérations jusqu'à l'exclusion spécifique des niveaux de micro-jeux/boss que tu souhaites omettre.
-[*] [b]Déferlement de Boss[/b] - Pas de micro-jeux, seulement un assaut de niveaux de boss - accéde au mode de jeu exclusif Déferlement de boss qui te permet de te battre à travers une série de niveaux de boss l'une après l'autre.
+[*] [b]Parties customisables[/b] - Personnalise les paramètres de partie, de l'ajustement du nombre de micro-jeux et d'accélérations jusqu'à l'exclusion spécifique des niveaux de micro-jeux/boss auxquels tu ne souhaites pas jouer.
+[*] [b]Déferlement de Boss[/b] - Pas de micro-jeux, seulement un assaut de niveaux de boss - accéde au mode de jeu exclusif Déferlement de boss qui te permet de te battre à travers une série de niveaux de boss les uns après les autres.
 [/list]
 
-[b]*[/b] Les utilisateurs gratuits n'ont pas besoin de posséder ce contenu télécharagable pour rejoindre les serveurs avec ces fonctionnalités. Si tu cherches à organiser une fête privée avec tes amis, seul l'hôte doit posséder ce contenu télécharagable !
+[b]*[/b] Les joueurs sans Pass n'ont pas besoin de posséder ce DLC pour rejoindre les serveurs avec ces fonctionnalités. Si tu cherches à organiser une fête privée avec tes amis, seul l'hôte doit posséder ce contenu télécharagable !
 
 [h2][b]PLUS TOUS CES BONUS[/b][/h2]
 
@@ -41,9 +41,9 @@ Tire le meilleur parti du MicroVerse avec cet achat unique de contenu téléchar
 
 - ARMES COLORABLES
 - BANDE-SON ORIGINALE
-- ART DE LA BOITE + FONDS D'ÉCRAN
+- ART SUR LE THÈME DU JEU + FONDS D'ÉCRAN
 - AUTOCOLLANTS
-- SOUTENEZ-NOUS
+- SOUTIENS-NOUS
 
 Nous ne sommes que deux développeurs essayant de gagner leur vie en faisant ce que nous aimons. Le Pass Festif est le seul moyen de générer des revenus grâce au jeu.
 Si vous avez apprécié MicroWorks, pensez à nous soutenir avec cet achat !
